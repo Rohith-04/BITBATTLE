@@ -1,5 +1,5 @@
 //---------------------------------------------
-// BUGGY FIFO DESIGN - For Debugging Practice
+// BUGGY FIFO DESIGN
 //---------------------------------------------
 module fifo (
     input  wire        clock,
