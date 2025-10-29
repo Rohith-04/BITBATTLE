@@ -2,7 +2,6 @@
 //  Testbench : tb_traffic_light_controller
 //  Project   : Silicon Synapses - The Intersection Protocol
 //  Purpose   : Full verification of 4-way traffic light controller
-//  Compatibility : Verilog-2001 (Vivado-safe)
 //======================================================================
 
 `timescale 1ns/1ps
